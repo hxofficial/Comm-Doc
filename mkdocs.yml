@@ -2,3 +2,35 @@ site_name: MySQLWorkbench User Documentation
 
 theme:
   name: material
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+
+theme:
+  name: material
+  palette: # <- this is the culprit, commenting it out fixes the issue, but we use need it for dark/bright mode configuration
+    scheme: default
+  icon:
+    admonition:
+      note: octicons/alert-24
+    logo: material/cloud
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+  
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - User Guide:
+      - Instructions:
+          - Task 1: instructions/task1.md
+          - Task 2: instructions/task2.md
+          - Task 3: instructions/task3.md
+      - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
