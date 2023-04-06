@@ -1,4 +1,8 @@
-# Introduction
+# **Welcome to MySQL Workbench**
+
+For full documentation visit [mysql.com](https://dev.mysql.com/doc/).
+
+## **Introduction**
 
 Introduction
 This guide contains instructions for using MySQLWorkbench to create a MySQL database, which is a structured collection of data managed by MySQL software. MySQLWorkbench is a user-friendly visual interface that allows users to create and manage MySQL databases without needing to write MySQL queries.
