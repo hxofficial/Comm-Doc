@@ -16,7 +16,7 @@ theme:
   icon:
     admonition:
       note: octicons/alert-24
-    logo: material/cloud
+    logo: material/database
 
 markdown_extensions:
   - admonition

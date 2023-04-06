@@ -1,7 +1,5 @@
 # **Welcome to MySQL Workbench**
 
-For full documentation visit [mysql.com](https://dev.mysql.com/doc/).
-
 ## **Introduction**
 
 Introduction
@@ -16,3 +14,5 @@ This guide explains:
 - Creating and deleting schemas
 - Adding data tables to schemas and inserting data
 - Establishing relationships between tables.
+
+For full documentation visit [mysql.com](https://dev.mysql.com/doc/).
