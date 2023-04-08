@@ -14,7 +14,7 @@ In this guide, we will show you step-by-step how to create a new table in MySQL 
    ![image](/images/TableTab.png)  
    &nbsp;  
 
-* **Right click** on the "Tables" tab and click on "Create Table". We named our table "term_1_courses".
+* **Right click** on the "Tables" tab and click on "Create Table".  
    ![image](/images/SelectCreateTable.png)  
   You should see the “Edit Table Screen” and be prompted to enter a name for your new table.  
    &nbsp;  
