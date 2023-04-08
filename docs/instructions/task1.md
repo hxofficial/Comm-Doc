@@ -38,7 +38,6 @@ Whether you are a beginner or an experienced user, this tutorial will provide yo
    &nbsp;  
 
 - **Click** "Apply", then "Close".  
-   &nbsp;  
 
 Congratulations! You have just created your first schema in MySQL Workbench. You can now begin adding tables to your new schema.
 

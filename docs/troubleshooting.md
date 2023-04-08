@@ -21,16 +21,3 @@ Make sure that the datatype of the foreign key column is the same as the datatyp
 ## **4 - Forgot root password for localhost database**
 
 [This guide in the MySQL reference manual](https://dev.mysql.com/doc/refman/8.0/en/resetting-permissions.html) explains how to reset the root password created during instiallation of MySQL. Remembering this password is essential in order to connect to the localhost database.
-
- | docs  
-  | images - contains all images used in the project  
-  | instructions  
-  |\_task1.md - contains instructions on creating a schema  
-  |\_task2.md - contains instructions on creating a table and entering data  
-  |\_task3.md - contains instructions on establishing relaitonships between tables  
-  |\_task4.md contains instructions on dropping a schema  
- |\_glossary.md - provides defintions for key words and phrases  
- |\_index.md - contains overview of instuctions as introduciton page  
- |\_troubleshooting.md - contains potential problems and their solutions  
-| mkdocs.yml - configures mkdocs site  
-| README.md - describes the project  

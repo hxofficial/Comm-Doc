@@ -7,18 +7,17 @@ In a MySQL database, it may be necessary to drop a schema (database) for various
 ## **Dropping a Schema**
 
 1. **Right click** on the schema that you created, you will see a screen with several tabs.  
-![image](/images/drop_rightclick.png)  
+![image](.././images/drop_rightclick.png)  
   &nbsp;  
 
 * **Delete** your schema (database) by selecting the drop schema button from the list.  
-![image](/images/DropSchema.png)  
+![image](.././images/DropSchema.png)  
   A pop-up notification asking for your confirmation to delete your schema should be expected.  
     &nbsp;  
 
 * Click on “Drop Now”  
-![image](/images/DropNow.png)  
-**_Warning_** _Deleting a schema is irreversible._
-  &nbsp;  
+**_Warning:_** _Deleting a schema is irreversible._
+![image](.././images/DropNow.png)  
 
 Congratulations! You have just deleted your first schema.
 
