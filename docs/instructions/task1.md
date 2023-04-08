@@ -11,29 +11,29 @@ Whether you are a beginner or an experienced user, this tutorial will provide yo
 ### **Create a schema**
 
 1. **Open** MySQLWorkbench by clicking on the MySQLWorkbench icon,
-   <img src="/images/MYSQL-icon.png" alt= “” width="40px" height="40px"> which opens the “Home Window”. This window displays a section titled "MySQL Connections".
-   ![image](/images/HomePage.png)  
+   <img src="../.././images/MYSQL-icon.png" alt= “” width="40px" height="40px"> which opens the “Home Window”. This window displays a section titled "MySQL Connections".
+   ![image](.././images/HomePage.png)  
    One connection called “Local instance: 3306” should already exist.  
    &nbsp;  
 
 - **Click** on the "Local Instance 3306" connection to connect to your local MySQL server.  
-  ![image](/images/RootConnection.png)  
+  ![image](.././images/RootConnection.png)  
   Once you are connected you will see a screen with several tabs on top and in the toolbar on top you will see a Schema button which creates you a database.  
-  ![image](/images/Toolbar.png)  
+  ![image](.././images/Toolbar.png)  
    &nbsp;  
 
 - **Click** on the schema button.
-  ![image](/images/Schema-icon.png) you will now be prompted to enter a name for your new schema.  
-  ![image](/images/Create_schema.png)  
+  ![image](.././images/Schema-icon.png) you will now be prompted to enter a name for your new schema.  
+  ![image](.././images/Create_schema.png)  
    &nbsp;  
 
 - **Type** a name for your new schema. We named our schema "full_stack_web_development".  
-![image](/images/SchemaSettings.png)  
+![image](.././images/SchemaSettings.png)  
   **_Note: _** Make sure to choose a name that is descriptive and easy to remember and do not change the character set and the collation setting.  
    &nbsp;  
 
 - **Click** on the "Apply" button, after you have entered your schema name.  
-![image](/images/completeSchema.png)  
+![image](.././images/completeSchema.png)  
   Once you click on the apply button you will get a pop-up message that shows you MySQL query which is the command related to the task you are doing manually.  
    &nbsp;  
 

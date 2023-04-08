@@ -4,7 +4,7 @@
 
 In a MySQL database, it may be necessary to drop a schema (database) for various reasons, such as restructuring or cleaning up the database. This task requires careful consideration and caution since dropping a schema will permanently delete all of its data. In this guide, we will walk you through the process of dropping a schema in MySQL Workbench.
 
-## Drop a schema
+## **Dropping a Schema**
 
 1. **Right click** on the schema that you created, you will see a screen with several tabs.  
 ![image](/images/drop_rightclick.png)  
