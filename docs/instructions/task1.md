@@ -27,16 +27,17 @@ Whether you are a beginner or an experienced user, this tutorial will provide yo
   ![image](/images/Create_schema.png)  
    &nbsp;  
 
-- **Type** a name for your new schema. We named our schema "full_stack_web_development".
+- **Type** a name for your new schema. We named our schema "full_stack_web_development".  
+![image](/images/SchemaSettings.png)  
   **_Note: _** Make sure to choose a name that is descriptive and easy to remember and do not change the character set and the collation setting.  
    &nbsp;  
 
 - **Click** on the "Apply" button, after you have entered your schema name.  
-  Once you click on the apply button you will get a pop-up message that shows you MYSQL query which is the command related to the task you are doing manually.  
+![image](/images/completeSchema.png)  
+  Once you click on the apply button you will get a pop-up message that shows you MySQL query which is the command related to the task you are doing manually.  
    &nbsp;  
 
 - **Click** "Apply", then "Close".  
-  ![image](/images/completeSchema.png)  
    &nbsp;  
 
 Congratulations! You have just created your first schema in MySQL Workbench. You can now begin adding tables to your new schema.

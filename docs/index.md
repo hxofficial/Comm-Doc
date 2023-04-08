@@ -10,8 +10,8 @@ The intended audience of this guide is BCIT Full Stack Web Development students 
 
 ### **Prerequisites**
 
-* MacOS Venture 13.0.1 or later
-* MySQL Community Serve 8.0 Installed
+* MacOS Ventura Version 13.0.1 or later
+* MySQL Community Server 8.0 Installed
 * MySQL Workbench Installed
 * Basic knowledge of relational databases.
 

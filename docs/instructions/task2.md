@@ -1,4 +1,4 @@
-# Task 2 - Creating Tables and Data Entry
+# Task 2 - Creating Tables and Entering Data
 
 ## **Introduction**
 
@@ -36,6 +36,7 @@ In this guide, we will show you step-by-step how to create a new table in MySQL 
   &nbsp;  
 
 * **Click** on the "Apply" button once you have defined all of your columns to create your new table. A pop-up window should appear displaying the MySQL query for creating the table.  
+![image](/images/ApplyTabble.png)  
   &nbsp;  
 
 * **Click** "Apply", then "Close".  
@@ -51,7 +52,7 @@ Congratulations! You have just created a table in MySQL Workbench, you can now b
   ![image](/images/TableTab.png)  
    &nbsp;  
 
-* **Hover** your mouse over the table where you want to insert data. A row selection button <img src="/images/RowSelectionbtn.png" alt= “” width="30px" height="30px"> should appear.
+* **Hover** your mouse over the table where you want to insert data. A row selection button <img src="/images/RowSelectionbtn.png" alt= “” width="30px" height="30px"> should appear.  
    &nbsp;  
 
 * **Click** on the row selection button.Then you will see a "Data" tab, where you have all the columns that you created earlier in your table.  
@@ -73,9 +74,7 @@ Congratulations! You have just created a table in MySQL Workbench, you can now b
   **_Note:_** _When enterering a row of data, input can be empty when the column does not have the property "Not Null" (NN), or if it has the "Auto Increment" (AI) property._  
    &nbsp;  
 
-* **Click** on the "Apply" button to insert the data into the table.  
-  ![image](/images/InsertedData.png)  
-  A pop-up window should appear displaying the MySQL query for entering the data.  
+* **Click** on the "Apply" button to insert the data into the table. A pop-up window should appear displaying the MySQL query for entering the data.  
   &nbsp;  
 
 * **Click** "Apply", then "Close".  
@@ -86,7 +85,9 @@ Congratulations! You have just inserted data into a MySQL Workbench table.
 
 ## **Knowledge Check**
 
-In order to follow the examples in Task 3, complete the following tasks:
+To show what you've learned, complete the following instructions to create a new table.
+
+**_Note: _** _The examples on this page must be completed to follow the examples in Task 3._
 
 1. **Create** a new table called "instructors" in the "full_stack_web_development" schema  
   &nbsp;  

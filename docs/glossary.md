@@ -4,6 +4,10 @@
 
 A column with the Auto Increment property will contain a number that increases for each row in the table. This property can be used for primary keys to uniqely identify rows.
 
+## **Cell**
+
+A cell is an individual piece of data at the intersection of a column and row.
+
 ## **Column**
 
 "Column" is a vertical data element in a table that represents a specific attribute or data field. Each column in a table is defined by a name, a data type, and optional constraints such as nullability, uniqueness, and default values.
@@ -19,6 +23,14 @@ Null is a datatype that means empty. A column in a table can be assigned the "No
 ## **Primary Key (PK)**
 
 "PK" in database stands for "Primary Key." A primary key is a field or combination of fields that uniquely identifies each record in a table of a database. The primary key is used to enforce data integrity and ensure that each record in the table is unique and identifiable.
+
+## **Reference Column**
+
+A Reference Column is the column referenced by a Foreign Key.
+
+## **Reference Table**
+
+A Reference Table is the table that contains the Foreign Key.
 
 ## **Row**
 
