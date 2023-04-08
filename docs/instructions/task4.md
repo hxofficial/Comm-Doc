@@ -17,6 +17,7 @@ In a MySQL database, it may be necessary to drop a schema (database) for various
 
 * Click on “Drop Now”  
 ![image](/images/DropNow.png)  
+**_Warning_** _Deleting a schema is irreversible._
   &nbsp;  
 
 Congratulations! You have just deleted your first schema.
